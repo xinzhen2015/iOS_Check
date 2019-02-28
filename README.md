@@ -38,6 +38,18 @@ FengNiao supports some arguments, you could find it by:
       Print this help message.
 ```
 
+### Usage
+```markdown
+Syntax highlighted code block
+
+### 1、You just have to replace the project path in fengniao.sh.
+
+### 2、run produce_html.py and you can get the report.
+
+```
+
+
+
 
 
 
