@@ -45,7 +45,7 @@ FengNiao supports some arguments, you could find it by:
 ### Usage
 
 ```markdown
-### 1、You just have to replace the project path in fengniao.sh.
+# 1、You just have to replace the project path in fengniao.sh.
 ```
 ```shell
 #! /usr/bin/expect
@@ -66,5 +66,5 @@ exit
 ```
 
 ```markdown
-### 2、run produce_html.py and you can get the report.
+# 2、run produce_html.py and you can get the report.
 ```
