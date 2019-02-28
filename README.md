@@ -17,6 +17,26 @@ Compile from source:
 ```
 FengNiao should be compiled, tested and installed into the /usr/local/bin.
 
+FengNiao supports some arguments, you could find it by:
+
+```shell
+> fengniao --help
+
+  -p, --project:
+      Root path of your Xcode project. Default is current folder.
+  --force:
+      Delete the found unused files without asking.
+  -e, --exclude:
+      Exclude paths from search.
+  -r, --resource-extensions:
+      Resource file extensions need to be searched. Default is 'imageset jpg png gif'
+  -f, --file-extensions:
+      In which types of files we should search for resource usage. Default is 'm mm swift xib storyboard'
+  --version:
+      Print version.
+  -h, --help:
+      Print this help message.
+```
 
 
 
