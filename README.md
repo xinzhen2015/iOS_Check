@@ -2,6 +2,15 @@
 <img src="https://github.com/xinzhen2015/iOS_Check/blob/master/iOS_Package_check/WechatIMG18.png" alt="iOS_Check" title="iOS_Check"/>
 </p>
 
+<p align="center">
+<a href="https://travis-ci.org/onevcat/FengNiao"><img src="https://img.shields.io/travis/onevcat/FengNiao/master.svg"></a>
+<a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/swift-4.0-brightgreen.svg"/></a>
+<a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-ready-orange.svg"></a>
+<a href="https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Kingfisher.svg?style=flat"></a>
+<a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/platform-macos%20|%20Linux-blue.svg"/></a>
+<a href="https://codecov.io/gh/onevcat/Hedwig"><img src="https://codecov.io/gh/onevcat/Hedwig/branch/master/graph/badge.svg"/></a>
+</p>
+
 ## What
 
 iOS_Check is a simple command-line util to deleting unused image resource files from you Xcode project and generate reports.
