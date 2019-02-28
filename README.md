@@ -44,45 +44,26 @@ Syntax highlighted code block
 
 ### 1、You just have to replace the project path in fengniao.sh.
 
+```shell
+#! /usr/bin/expect
+
+spawn fengniao -p preject_path -r jpg JPG jpeg png gif imageset
+
+expect {
+
+ "(l)ist|(d)elete|(i)gnore" { send "l\n"}
+
+ "you have no unused resources in path" {send "\n"}
+
+        }
+
+expect eof
+
+exit
+```
+
 ### 2、run produce_html.py and you can get the report.
 
 ```
 
 
-
-
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinzhen2015/iOS_Check/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
