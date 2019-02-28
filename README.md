@@ -8,11 +8,21 @@ iOS_Check is a simple command-line util to deleting unused image resource files 
 
 You need Swift Package Manager (as well as swift compiler) installed in your macOS, generally you are prepared if you have the latest Xcode installed.
 
+Compile from source:
+
 ```shell
 > git clone https://github.com/onevcat/FengNiao.git
 > cd FengNiao
 > ./install.sh
 ```
+FengNiao should be compiled, tested and installed into the /usr/local/bin.
+
+
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
