@@ -1,6 +1,6 @@
 #! /usr/bin/expect
 
-spawn fengniao -p /Users/william/Documents/whiteCat/huxiu-ios-master -r jpg JPG jpeg png gif imageset
+spawn fengniao -p project_path -r jpg JPG jpeg png gif imageset
 
 expect {
 
