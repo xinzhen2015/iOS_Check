@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/xinzhen2015/iOS_Check/blob/master/iOS_Package_check/WechatIMG18.png" alt="iOS_Check" title="iOS_Check" width="468"/>
+<img src="https://github.com/xinzhen2015/iOS_Check/blob/master/iOS_Package_check/WechatIMG18.png" alt="iOS_Check" title="iOS_Check"/>
 </p>
 
 ## What
