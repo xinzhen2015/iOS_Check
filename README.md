@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/onevcat/FengNiao/assets/logo.png" alt="FengNiao" title="FengNiao" width="468"/>
+</p>
+
 ## What
 
 iOS_Check is a simple command-line util to deleting unused image resource files from you Xcode project and generate reports.
