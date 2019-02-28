@@ -1,9 +1,18 @@
-## Welcome to GitHub Pages
+## What
 
-You can use the [editor on GitHub](https://github.com/xinzhen2015/iOS_Check/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+iOS_Check is a simple command-line util to deleting unused image resource files from you Xcode project and generate reports.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How
 
+### First installation
+
+You need Swift Package Manager (as well as swift compiler) installed in your macOS, generally you are prepared if you have the latest Xcode installed.
+
+```shell
+> git clone https://github.com/onevcat/FengNiao.git
+> cd FengNiao
+> ./install.sh
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
